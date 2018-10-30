@@ -55,6 +55,7 @@ Recode getline from the C Standard Library. A true test of rigor.
 ## DevOps Branch
 
 ### Init
+This project has the goal to discover system and network basic commands, many of the services used on a server machine, as well as a few scripts that can be useful for SysAdmins on a daily basis.
 
 [Init Repository](https://github.com/thaisavelino/init)
 
