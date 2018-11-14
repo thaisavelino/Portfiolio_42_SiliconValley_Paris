@@ -40,7 +40,7 @@ There are repositories containing projects.
 ### Libft
 First project after starting the main program. We code **our own C library** that we will use for following projects besides of using the C Standard Library, to use for the rest of our projects. As we progress in the curriculum, new functions are constantly added to our personal libraries.
 
-[Libft Repository](https://github.com/thaisavelino/C-language-projects)
+[Libft Repository](https://github.com/thaisavelino/Libft)
 
 ### Fillit
 The goal of fillit is to implement a very specific algorithm that packs a list of teris tetrominoes (input) into the smallest square possible. Due to the nature of the rules, the only real solution is done through recursive backtracking.
