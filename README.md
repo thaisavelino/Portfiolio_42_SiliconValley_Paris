@@ -48,25 +48,25 @@ The goal of fillit is to implement a very specific algorithm that packs a list o
 [Fillit Repository](https://github.com/thaisavelino/fillit)
 
 ### Get Next Line
-Recode getline from the C Standard Library. A true test of rigor.
+    Recode getline from the C Standard Library. A true test of rigor.
 
-[Get_next_line Repository](https://github.com/thaisavelino/get_next_line)
+    [Get_next_line Repository](https://github.com/thaisavelino/get_next_line)
 
 ## DevOps Branch
 
-### Init
-This project has the goal to discover system and network basic commands, many of the services used on a server machine, as well as a few scripts that can be useful for SysAdmins on a daily basis.
+  ### Init
+      This project has the goal to discover system and network basic commands, many of the services used on a server machine, as well as a few scripts that can be useful for SysAdmins on a daily basis.
 
-[Init Repository](https://github.com/thaisavelino/init)
+    [Init Repository](https://github.com/thaisavelino/init)
 
-### Roger-skyline-1
+  ### Roger-skyline-1
 
-A project about VM creation.
-[roger-skyline-1 repository](ttps://github.com/thaisavelino/roger-skyline-1)
+    A project about VM creation.
+    [roger-skyline-1 repository](ttps://github.com/thaisavelino/roger-skyline-1)
 
-### Docker
+  ### Docker
 
-([Repository] () need to add on git)
+    ([Repository] () need to add on git)
 
 ## Piscines
 
