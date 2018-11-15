@@ -55,18 +55,19 @@ The goal of fillit is to implement a very specific algorithm that packs a list o
 ## DevOps Branch
 
   ### Init
-      This project has the goal to discover system and network basic commands, many of the services used on a server machine, as well as a few scripts that can be useful for SysAdmins on a daily basis.
+  
+  This project has the goal to discover system and network basic commands, many of the services used on a server machine, as well as a few scripts that can be useful for SysAdmins on a daily basis.
 
-    [Init Repository](https://github.com/thaisavelino/init)
+  [Init Repository](https://github.com/thaisavelino/init)
 
   ### Roger-skyline-1
 
-    A project about VM creation.
-    [roger-skyline-1 repository](ttps://github.com/thaisavelino/roger-skyline-1)
+  A project about VM creation.
+  [roger-skyline-1 repository](ttps://github.com/thaisavelino/roger-skyline-1)
 
   ### Docker
 
-    ([Repository] () need to add on git)
+  ([Repository] () need to add on git)
 
 ## Piscines
 
