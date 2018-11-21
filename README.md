@@ -1,14 +1,13 @@
 # Portfolio - École 42 - Paris / Silicon-Valley
 
-Projects made ate School 42, a learning school with no teacher.
-
-Silicon Valley (
-https://www.42.us.org/)
-Paris (http://http://www.42.fr/)
+Projects made at School 42, a innovative learning school with no teacher..
 
 42 is a computer educational center, the pedagogy is peer-to-peer learning : a participative process that allows students to unleash their creativity through project-based learning. The establishment was founded by Florian Bucher, Xavier Niel, Nicolas Sadirac and Kwame Yamgnane in 2013 while the digital industry is in full lack of IT developers in France. To train many of the best talents of tomorrow, the school provides the best infrastructure in a unique and modern place. 42, this is our answer to what should be the school of tomorrow.
 
 Situated in the Bay Area USA and Paris France.
+
+- [Silicon Valley](https://www.42.us.org/).
+- [Paris](http://http://www.42.fr/).
 
 # About the projects
 
@@ -17,13 +16,11 @@ All the projects are coded following a strict coding guideline (norm):
 
 **A few norm highlights:**
 * You can only use While loops
-* max 84 characters per line
-* max 25 lines per function
+* max 25 lines per function *< 84 characters per line*
 * max 4 arguments per function
 * incredibly specific tabulation
-* declarations and instantiations must be separate
 * no memory leaks, no segmentation faults, no exceptions
-* most importantly, **no use of C Standard Library functions** besides **(write, malloc, free, open, read)**, unless otherwise specified
+* most importantly, **no use of C Standard Library functions** besides **(write, malloc, free, open, read)**, unless otherwise specified. So you must code your own Library.
 
 # Projects made
 
