@@ -19,7 +19,7 @@ All the projects are coded following a strict coding guideline (norm):
 * no memory leaks, no segmentation faults, no exceptions
 * most importantly, **no use of C Standard Library functions** besides **(write, malloc, free, open, read)**, unless otherwise specified. So you must code your own Library.
 
-# Projects made
+# Projects List
 
 These are the projects that I have completed during my time spent at 42, from April 2018 - until now.
 There are repositories containing projects.
