@@ -72,5 +72,5 @@ I haven't made it yet
 
 ## Exams
 
-C exams are held once every week. These exams are electronically graded akin to the ones held by popular coding challenge websites. There are currently 2 levels: beginner and intermediate. The beginner exam focuses on fundamental C concepts, whereas the intermediate exam focuses more on algorithms. Passing an exam entails obtaining a high aggregate score (75+ for beginner, 84+ for intermediate) across multiple attempts. I solved all the intermediate exam problems and created an answer key [here](https://github.com/thaisavelino/ExamC-study)
+There are 2 currently levels: **beginner** (fundamental C concepts) and **intermediate** (algorithms). Check my solutions for the exam challanges [here](https://github.com/thaisavelino/ExamC-study)
 
