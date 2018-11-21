@@ -6,7 +6,7 @@ Projects made at School 42, a innovative learning school with no teacher..
 
 Situated in the Bay Area USA [Silicon Valley](https://www.42.us.org/) and [Paris France](http://http://www.42.fr/).
 
-# About the projects
+## About the projects
 
 Almost all projects are coded in **C language** on **macOS**.
 All the projects are coded following a strict coding guideline (norm):
