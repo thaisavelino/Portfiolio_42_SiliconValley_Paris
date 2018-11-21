@@ -66,7 +66,7 @@ The goal of fillit is to implement a very specific algorithm that packs a list o
 
 ## Piscines
 
-In addition to the C Piscine used as a selection period, 42 occasionally offers 2 week intensives that act as introductory crash courses to other programming paradigms.
+Like the C Piscine from selection period, 42 has 2 week intensive programs that act as introductory crash courses to other programming paradigms.
 
 I haven't made it yet
 
