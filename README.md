@@ -29,7 +29,7 @@ There are repositories containing projects.
 ### C Piscine
 1 month intensive selection program called the Piscine (French word for swimming pool), students that was selected bt an online test go to school and spend this 1 month where only the most rigorous and tenacious students are selected to enter the main program. The content is an introduction to Unix, C programming language and simple data structures.
 
-([C Piscine Repository] Need to add on git)
+([C Piscine Repository not Available])
 
 ### Libft
 First project after starting the main program. We code **our own C library** that we will use for following projects besides of using the C Standard Library, to use for the rest of our projects. As we progress in the curriculum, new functions are constantly added to our personal libraries.
