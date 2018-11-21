@@ -1,4 +1,4 @@
-# Portfolio - École 42 - Paris / Silicon-Valley
+# Portfolio - École 42 - (Paris and Silicon-Valley)
 
 Projects made at School 42, a innovative learning school with no teacher..
 
