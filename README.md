@@ -4,10 +4,7 @@ Projects made at School 42, a innovative learning school with no teacher..
 
 42 is a computer educational center, the pedagogy is peer-to-peer learning : a participative process that allows students to unleash their creativity through project-based learning. The establishment was founded by Florian Bucher, Xavier Niel, Nicolas Sadirac and Kwame Yamgnane in 2013 while the digital industry is in full lack of IT developers in France. To train many of the best talents of tomorrow, the school provides the best infrastructure in a unique and modern place. 42, this is our answer to what should be the school of tomorrow.
 
-Situated in the Bay Area USA and Paris France.
-
-- [Silicon Valley](https://www.42.us.org/).
-- [Paris](http://http://www.42.fr/).
+Situated in the Bay Area USA [Silicon Valley](https://www.42.us.org/) and [Paris France](http://http://www.42.fr/).
 
 # About the projects
 
@@ -56,11 +53,11 @@ The goal of fillit is to implement a very specific algorithm that packs a list o
   
   This project has the goal to discover system and network basic commands, many of the services used on a server machine, as well as a few scripts that can be useful for SysAdmins on a daily basis.
 
-  [Init Repository](https://github.com/thaisavelino/init)
+  [Init Repository](https://github.com/thaisavelino/init-devops)
 
   ### Roger-skyline-1
 
-  A project about VM creation.
+  A project about VM creation, servers configuration and security.
   [roger-skyline-1 repository](ttps://github.com/thaisavelino/roger-skyline-1)
 
   ### Docker
