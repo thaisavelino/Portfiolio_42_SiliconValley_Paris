@@ -53,7 +53,7 @@ The goal of fillit is to implement a very specific algorithm that packs a list o
   
   Recode libc's printf function.
   
-  [pritnf Repository](https://github.com/thaisavelino/printf)
+  [pritnf Repository is not public!](https://github.com/thaisavelino/printf)
 
 ## DevOps Branch
 
