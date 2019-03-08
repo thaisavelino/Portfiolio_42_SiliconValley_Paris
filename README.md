@@ -53,7 +53,7 @@ The goal of fillit is to implement a very specific algorithm that packs a list o
   
   Recode libc's printf function.
   
-  [The pritnf Repository is not public!](https://github.com/thaisavelino/printf)
+  [private pritnf Repository](https://github.com/thaisavelino/printf)
 
 ## DevOps Branch
 
@@ -61,19 +61,19 @@ The goal of fillit is to implement a very specific algorithm that packs a list o
   
   This project has the goal to discover system and network basic commands, many of the services used on a server machine, as well as a few scripts that can be useful for SysAdmins on a daily basis.
 
-  [Init Repository](https://github.com/thaisavelino/init-devops)
+  [private Init Repository](https://github.com/thaisavelino/init-devops)
 
   ### Roger-skyline-1
 
   A project about VM creation, servers configuration and security.
   
-  [roger-skyline-1 repository](https://github.com/thaisavelino/roger-skyline-1/)
+  [private roger-skyline-1 Repository](https://github.com/thaisavelino/roger-skyline-1/)
 
   ### Docker-1
   Docker-1 project is to make you handle docker and docker-machine, the bases to understand 
   the idea of containerization of   services.
 
-  [Repository-Docker-1](https://github.com/thaisavelino/Docker-1-ecole42)
+  [private Docker-1 Repository](https://github.com/thaisavelino/Docker-1-ecole42)
 
 ## Piscines
 
