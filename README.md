@@ -79,8 +79,11 @@ The goal of fillit is to implement a very specific algorithm that packs a list o
 
 Like the C Piscine from selection period, 42 has 2 week intensive programs that act as introductory crash courses to other programming paradigms.
 
-I haven't made it yet
-
+  ### Piscine PHP
+  The PHP piscine allow us to access the basic technologies of the web like: HTML, CSS, PHP, JavaScript.
+  Each day we get a new challange and we have to challenge the clock to deliver everything on time without losing any small detail.
+  
+  [Repository](https://github.com/thaisavelino/PiscinePHP)
 ## Exams
 
 There are 2 currently levels: **beginner** (fundamental C concepts) and **intermediate** (algorithms). Check my solutions for the exam challanges [here](https://github.com/thaisavelino/ExamC-study)
