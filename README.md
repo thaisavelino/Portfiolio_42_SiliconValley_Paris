@@ -79,7 +79,9 @@ The goal of fillit is to implement a very specific algorithm that packs a list o
   
   ### Camagru
   
-  The first Web project is about to create a website like instagram in PHP. No library is allowed.
+  The first Web project is about to create MVC website like instagram in PHP. No library is allowed.
+  Donc dans ce projet nous allons apprendre comment utiliser PHP, programmation orientée objets pour 
+  créer notre popre système MVC. Ça permite comprendre a logique quíl ya derrière tout les Framework.
   
   [Camagru private Repository](https://github.com/thaisavelino/Camagru-42)
   
